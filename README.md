@@ -75,5 +75,5 @@ This dashboard enables stakeholders to quickly understand:
 * Implement drill-through analysis
 * Include year-over-year comparisons
 * Enhance UI/UX design for better readability
-* https://github.com/hamidraza6/Bank-Performance-Dashborad/blob/main/Screenshot%202026-03-12%20140152.png
+* <img width="900" alt="Retail Sales Dashboard" src="https://github.com/hamidraza6/Bank-Performance-Dashborad/blob/main/Screenshot%202026-03-12%20140152.png">
 # Bank-Performance-Dashborad
