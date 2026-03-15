@@ -69,11 +69,12 @@ This dashboard enables stakeholders to quickly understand:
 * Monthly financial trends
 * Multi-currency transaction behavior
 
+*  <img width="900" alt="Retail Sales Dashboard" src="https://github.com/hamidraza6/Bank-Performance-Dashborad/blob/main/Screenshot%202026-03-12%20140152.png">
+
 ## Future Improvements
 
 * Add interactive slicers (Year, Region, Customer)
 * Implement drill-through analysis
 * Include year-over-year comparisons
 * Enhance UI/UX design for better readability
-* <img width="900" alt="Retail Sales Dashboard" src="https://github.com/hamidraza6/Bank-Performance-Dashborad/blob/main/Screenshot%202026-03-12%20140152.png">
 # Bank-Performance-Dashborad
